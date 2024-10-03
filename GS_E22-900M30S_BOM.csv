@@ -1,0 +1,16 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J5";"MountingHole_2.2mm_M2_DIN965_Pad";1;"VCC";;;
+2;"H3,H1,H2,H4";"MountingHole_2.7mm_M2.5_Pad_Via";4;"M";;;
+3;"J2";"MountingHole_2.2mm_M2_DIN965_Pad";1;"V_RF";;;
+4;"U2";"XCVR_E22-900M30S";1;"E22-900M30S";;;
+5;"C4";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"10uF";;;
+6;"R2";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"200";;;
+7;"C3";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"100nF";;;
+8;"D1";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"POW";;;
+9;"U1";"TO220-3_T_LIT";1;"LT1085-5.0";;;
+10;"R1";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"10K";;;
+11;"J1";"BarrelJack_Horizontal";1;"Barrel_Jack";;;
+12;"C1";"TAJC_AVX";1;"10uF";;;
+13;"C2";"TAJC_AVX";1;"22uF";;;
+14;"J4";"MountingHole_2.2mm_M2_DIN965_Pad";1;"GND";;;
+15;"J3";"PinSocket_2x20_P2.54mm_Vertical";1;"Raspberry_Pi_2_3";;;
